@@ -1,3 +1,3 @@
 # DevOps Capstone Project
 
-![CI](https://github.com/HaritsMartsyabel/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+![Build Status](https://github.com/Syahratu015/Capstone-fInal-project/actions/workflows/python-app.yml/badge.svg)
